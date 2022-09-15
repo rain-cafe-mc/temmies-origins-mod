@@ -23,6 +23,10 @@
                     "type": "origins:gamemode",
                     "gamemode": "creative",
                     "inverted": true
+                }, {
+                    "type": "origins:nbt",
+                    "nbt": "{FallFlying:1b}",
+                    "inverted": true
                 }]
             }
         }
@@ -55,6 +59,9 @@
                 }, {
                     "type": "origins:gamemode",
                     "gamemode": "creative"
+                }, {
+                    "type": "origins:nbt",
+                    "nbt": "{FallFlying:1b}"
                 }, {
                     "type": "origins:resource",
                     "inverted": false,
@@ -180,6 +187,9 @@
                 }, {
                     "type": "origins:gamemode",
                     "gamemode": "creative"
+                }, {
+                    "type": "origins:nbt",
+                    "nbt": "{FallFlying:1b}"
                 }]
             },
             "if_action": {
