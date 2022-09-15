@@ -1,0 +1,34 @@
+{
+	"type": "origins:conditioned_attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.attack_damage",
+		"operation": "multiply_total",
+		"value": 1.5
+	},
+	"condition": {
+		"type": "origins:and",
+		"conditions": [{
+				"type": "origins:equipped_item",
+				"equipment_slot": "mainhand",
+				"item_condition": {
+					"type": "origins:ingredient",
+					"ingredient": {
+						"tag": "temmies-origins:bows"
+					}
+				}
+			},
+			{
+				"type": "origins:equipped_item",
+				"equipment_slot": "offhand",
+				"item_condition": {
+					"type": "origins:ingredient",
+					"ingredient": {
+						"tag": "temmies-origins:swords"
+					}
+				}
+			}
+		]
+	},
+	"name": "Bow Apprentice",
+	"description": "Because you are trained with bows, they do more damage"
+}

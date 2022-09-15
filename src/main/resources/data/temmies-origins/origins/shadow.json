@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"temmies-origins:shadow/cloud",
+		"temmies-origins:shadow/echest",
+		"temmies-origins:shadow/hunger",
+		"temmies-origins:shadow/invisibility",
+		"temmies-origins:shadow/no_food",
+		"temmies-origins:shadow/sun_weakness",
+		"temmies-origins:shadow/weak"
+	],
+	"icon": "minecraft:black_concrete",
+	"impact": 3,
+	"name": "Shadow",
+	"description": "You are one with the shadows."
+}

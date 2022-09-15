@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"origins:no_cobweb_slowdown",
+		"temmies-origins:vishaichian/chicken_status_clear",
+		"temmies-origins:vishaichian/fall",
+		"temmies-origins:vishaichian/fire_weakness",
+		"temmies-origins:vishaichian/high_prices",
+		"temmies-origins:vishaichian/poison_spit",
+		"temmies-origins:vishaichian/raw_diet",
+		"temmies-origins:vishaichian/saturation",
+		"temmies-origins:vishaichian/summon_fangs",
+		"temmies-origins:vishaichian/upgrade/upgrade_hearts",
+		"temmies-origins:vishaichian/upgrade/upgrade_jump",
+		"temmies-origins:vishaichian/upgrade/upgrade_strength"
+	],
+	"icon": "minecraft:rabbit_hide",
+	"impact": 2,
+	"name": "Vishaichian",
+	"description": "An ancient warrior of great skill in combat."
+}

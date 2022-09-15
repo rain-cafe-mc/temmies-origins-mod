@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"temmies-origins:lunar-path/chains_of_death",
+		"temmies-origins:lunar-path/cursed_being",
+		"temmies-origins:lunar-path/exiled",
+		"temmies-origins:lunar-path/explosion_immune",
+		"temmies-origins:lunar-path/from_beyond_the_grave",
+		"temmies-origins:lunar-path/great_deal",
+		"temmies-origins:lunar-path/night_boost",
+		"temmies-origins:lunar-path/no_daylight_water",
+		"temmies-origins:lunar-path/pluck",
+		"temmies-origins:lunar-path/summon_fangs",
+		"temmies-origins:lunar-path/sunlight_terror",
+		"temmies-origins:lunar-path/weakened_by_all"
+	],
+	"icon": "minecraft:sea_lantern",
+	"impact": 3,
+	"name": "Lunar Path",
+	"description": "You are a powerful, undead being."
+}

@@ -1,0 +1,23 @@
+{
+	"powers": [
+		"temmies-origins:ice-porcupine/carnivorous",
+		"temmies-origins:ice-porcupine/cold_adapted_cold_biomes",
+		"temmies-origins:ice-porcupine/cold_adapted_hot_biomes",
+		"temmies-origins:ice-porcupine/cold_aura",
+		"temmies-origins:ice-porcupine/hydrophobic",
+		"temmies-origins:ice-porcupine/ice_body_fire_damage",
+		"temmies-origins:ice-porcupine/ice_body_hearts",
+		"temmies-origins:ice-porcupine/ice_claws",
+		"temmies-origins:ice-porcupine/ice_spikes",
+		"temmies-origins:ice-porcupine/icy_spawn",
+		"temmies-origins:ice-porcupine/multi_arrows",
+		"temmies-origins:ice-porcupine/small_size",
+		"temmies-origins:ice-porcupine/small_size_jump",
+		"temmies-origins:ice-porcupine/small_size_speed",
+		"temmies-origins:ice-porcupine/vanish"
+	],
+	"icon": "minecraft:packed_ice",
+	"impact": 3,
+	"name": "Ice Porcupine",
+	"description": "Once a natural creature, you were corrupted by demonic energies, giving you command over ice."
+}

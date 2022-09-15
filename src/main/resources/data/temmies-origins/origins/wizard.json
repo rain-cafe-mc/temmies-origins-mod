@@ -1,0 +1,31 @@
+{
+	"powers": [
+		"temmies-origins:wizard/ball",
+		"temmies-origins:wizard/broom",
+		"temmies-origins:wizard/flight_kinda",
+		"temmies-origins:wizard/health",
+		"temmies-origins:wizard/immune",
+		"temmies-origins:wizard/immunity",
+		"temmies-origins:wizard/light",
+		"temmies-origins:wizard/magic",
+		"temmies-origins:wizard/melee",
+		"temmies-origins:wizard/old",
+		"temmies-origins:wizard/old2",
+		"temmies-origins:wizard/old3",
+		"temmies-origins:wizard/pill",
+		"temmies-origins:wizard/respect",
+		"temmies-origins:wizard/respect2",
+		"temmies-origins:wizard/second",
+		"temmies-origins:wizard/skin",
+		"temmies-origins:wizard/skulls",
+		"temmies-origins:wizard/vex",
+		"temmies-origins:wizard/vex2",
+		"temmies-origins:wizard/vill",
+		"temmies-origins:wizard/why"
+
+	],
+	"icon": "minecraft:totem_of_undying",
+	"impact": 3,
+	"name": "Wizard",
+	"description": "You used to be a normal villager but you grew wise and old and decided to use your magic for good."
+}

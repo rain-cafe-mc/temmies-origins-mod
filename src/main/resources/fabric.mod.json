@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1, 
+	"id": "temmies-origins", 
+	"name": "Temmie's Origins", 
+	"version": "${version}",
+	"description": "Origins made especially for the Temmie's Origins Modpack! c:",
+	"authors": ["Ceci"],   
+	"contributors": [], 
+	"contact": {
+		"homepage": "https://github.com/temmies-origins/temmies-origins-mod",
+		"issues": "https://github.com/temmies-origins/temmies-origins-mod/issues"
+	},
+	"icon": "icon.png",
+	"depends": {
+		"fabric": "*",
+		"origins": "*",
+	    "pehkui": "*"
+	}
+}

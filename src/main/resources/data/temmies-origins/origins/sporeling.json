@@ -1,0 +1,31 @@
+{
+	"powers": [
+		"origins:tailwind",
+		"origins:slow_falling",
+		"temmies-origins:sporeling/decomposer",
+		"temmies-origins:sporeling/firedamage",
+		"temmies-origins:sporeling/healthdecrease",
+		"temmies-origins:sporeling/jockey",
+		"temmies-origins:sporeling/light_armor",
+		"temmies-origins:sporeling/poison_spread_attack",
+		"temmies-origins:sporeling/poison_spread_attack_particles",
+		"temmies-origins:sporeling/poison_spread_attack_sound",
+		"temmies-origins:sporeling/poison_spread_attack_sound_additional",
+		"temmies-origins:sporeling/poison_spread_attack_sound_additional_extra",
+		"temmies-origins:sporeling/smallspeed",
+		"temmies-origins:sporeling/tinyspore",
+		"temmies-origins:sporeling/updraft",
+		"temmies-origins:sporeling/updraft_particles"
+	],
+	"icon": "minecraft:brown_mushroom",
+	"impact": 3,
+	"name": "Sporeling",
+	"description": "A tiny floaty mushroom-man that came out of the ground and started doing stuff.",
+	"upgrades": [
+		{
+			"condition": "minecraft:end/kill_dragon",
+			"origin": "temmies-origins:shroomling",
+			"announcement": "After killing the ender dragon, you've grown into your final form: A small mushroom!"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"temmies-origins:child-of-cthulhu/camouflage",
+		"temmies-origins:child-of-cthulhu/exhaust",
+		"temmies-origins:child-of-cthulhu/fire_weakness",
+		"temmies-origins:child-of-cthulhu/launch",
+		"temmies-origins:child-of-cthulhu/reach",
+		"temmies-origins:child-of-cthulhu/size_change",
+		"temmies-origins:child-of-cthulhu/size_changer",
+		"temmies-origins:child-of-cthulhu/size_resource",
+		"temmies-origins:child-of-cthulhu/slowness_on_land",
+		"temmies-origins:child-of-cthulhu/water_lungs",
+		"temmies-origins:child-of-cthulhu/water_vision",
+		"temmies-origins:child-of-cthulhu/winged"
+	],
+	"icon": "minecraft:purple_glazed_terracotta",
+	"impact": 2,
+	"name": "Child Of Cthulhu",
+	"description": "You are descendant of Cthulhu."
+}

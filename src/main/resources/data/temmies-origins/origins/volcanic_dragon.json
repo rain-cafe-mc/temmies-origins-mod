@@ -1,0 +1,24 @@
+{
+	"powers": [
+		"origins:carnivore",
+		"origins:damage_from_snowballs",
+		"origins:fire_immunity",
+		"temmies-origins:volcanic-dragon/fall_immunity",
+		"temmies-origins:volcanic-dragon/fast_metabolism",
+		"temmies-origins:volcanic-dragon/hot_blooded",
+		"temmies-origins:volcanic-dragon/hydrophobic",
+		"temmies-origins:volcanic-dragon/lava_breath",
+		"temmies-origins:volcanic-dragon/natural_armor",
+		"temmies-origins:volcanic-dragon/natural_strength",
+		"temmies-origins:volcanic-dragon/nether_spawn",
+		"temmies-origins:volcanic-dragon/slowness_in_cold",
+		"temmies-origins:volcanic-dragon/two_extra_hearts",
+		"temmies-origins:volcanic-dragon/volcanic_dash",
+		"temmies-origins:volcanic-dragon/weakness_in_cold",
+		"temmies-origins:volcanic-dragon/wings"
+	],
+	"icon": "minecraft:lava_bucket",
+	"impact": 3,
+	"name": "Volcanic Dragon",
+	"description": "You are a dragon born out of volcanic energy."
+}

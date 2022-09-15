@@ -1,0 +1,18 @@
+{
+    "powers": [
+        "temmies-origins:emblazing-warrior/blind",
+        "temmies-origins:emblazing-warrior/burning_will",
+        "temmies-origins:emblazing-warrior/cross",
+        "temmies-origins:emblazing-warrior/exhaustion",
+        "temmies-origins:emblazing-warrior/fire_immune",
+        "temmies-origins:emblazing-warrior/fury",
+        "temmies-origins:emblazing-warrior/ignition",
+        "temmies-origins:emblazing-warrior/injury_lover",
+        "temmies-origins:emblazing-warrior/rage",
+        "temmies-origins:emblazing-warrior/world_diff"
+    ],
+    "icon": "minecraft:blaze_powder",
+    "impact": 2,
+    "name": "Emblazing Warrior",
+    "description": "You are one of the nether entities sent to the pverworld to cause chaos and disruption. Your powers are tied to your injuries."
+}

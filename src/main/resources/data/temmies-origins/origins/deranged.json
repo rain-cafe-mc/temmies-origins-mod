@@ -1,0 +1,19 @@
+{
+    "name": "Deranged",
+    "description": "You are an ordinary human, but you come from a rotten and horrible family that hurt you when you were young.\n\nYou came to think that this was the norm, and then you became mentally unsound.",
+    "powers": [
+        "temmies-origins:deranged/arroweffect",
+        "temmies-origins:deranged/breathing",
+        "temmies-origins:deranged/dart",
+        "temmies-origins:deranged/derangefiller",
+        "temmies-origins:deranged/derangement",
+        "temmies-origins:deranged/insane",
+        "temmies-origins:deranged/knifelove",
+        "temmies-origins:deranged/nightmares",
+        "temmies-origins:deranged/persuasive",
+        "temmies-origins:deranged/redrage",
+        "temmies-origins:deranged/tranquil"
+    ],
+    "icon": "minecraft:nether_wart_block",
+    "impact": 2
+}

@@ -1,0 +1,20 @@
+{
+    "powers": [
+        "temmies-origins:witch-of-ink/artfinity",
+        "temmies-origins:witch-of-ink/artistry",
+        "temmies-origins:witch-of-ink/aura",
+        "temmies-origins:witch-of-ink/eraser",
+        "temmies-origins:witch-of-ink/fired",
+        "temmies-origins:witch-of-ink/frail",
+        "temmies-origins:witch-of-ink/magicbrush",
+        "temmies-origins:witch-of-ink/no_eat",
+        "temmies-origins:witch-of-ink/no_invis",
+        "temmies-origins:witch-of-ink/painted_armor",
+        "temmies-origins:witch-of-ink/reanimate",
+        "temmies-origins:witch-of-ink/witchy"
+    ],
+    "icon": "red_dye",
+    "impact": 2,
+    "name": "Witch of Ink",
+    "description": "You saw The Canvas: a legendary artifact that has enlightened you. Your only purpose is to create a world made entirely of paint and simple colors."
+}

@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"origins:more_exhaustion",
+		"origins:carnivore",
+		"temmies-origins:ryu/all_knowing",
+		"temmies-origins:ryu/better_odds",
+		"temmies-origins:ryu/big_body",
+		"temmies-origins:ryu/dark_color",
+		"temmies-origins:ryu/friendly_eyes",
+		"temmies-origins:ryu/healing_potions",
+		"temmies-origins:ryu/heavy_scales",
+		"temmies-origins:ryu/lift_off",
+		"temmies-origins:ryu/natural_protection",
+		"temmies-origins:ryu/so_much_weight",
+		"temmies-origins:ryu/sparkly",
+		"temmies-origins:ryu/winged"
+	],
+	"icon": "minecraft:stick",
+	"impact": 3,
+	"name": "Ryū",
+	"description": "You are a legendary creature born from the heavens."
+}

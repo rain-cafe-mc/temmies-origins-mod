@@ -1,0 +1,27 @@
+{
+	"powers": [
+		"origins:no_shield",
+		"origins:master_of_webs",
+		"origins:no_cobweb_slowdown",
+		"temmies-origins:broodmother/climbing",
+		"temmies-origins:broodmother/cobweb_feed",
+		"temmies-origins:broodmother/cursed_mother",
+		"temmies-origins:broodmother/exoskeleton",
+		"temmies-origins:broodmother/extra_hearts",
+		"temmies-origins:broodmother/long_jump",
+		"temmies-origins:broodmother/mineshaft_spawn",
+		"temmies-origins:broodmother/poison_immunity",
+		"temmies-origins:broodmother/poison_touch",
+		"temmies-origins:broodmother/silky_composition",
+		"temmies-origins:broodmother/spider_attribute",
+		"temmies-origins:broodmother/spider_kinship",
+		"temmies-origins:broodmother/spider_strength",
+		"temmies-origins:broodmother/suffocation_immunity",
+		"temmies-origins:broodmother/summon_the_army",
+		"temmies-origins:broodmother/web_shot"
+	],
+	"icon": "minecraft:spider_eye",
+	"impact": 3,
+	"name": "Broodmother",
+	"description": "The mother of the arachnid colonies, the broodmother is an elder being capable of great destruction. Often feared by those who utter the name."
+}

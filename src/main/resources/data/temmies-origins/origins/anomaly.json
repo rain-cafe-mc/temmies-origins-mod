@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"temmies-origins:anomaly/blinding_light",
+		"temmies-origins:anomaly/energetic_ionization",
+		"temmies-origins:anomaly/eternity",
+		"temmies-origins:anomaly/moons_grace",
+		"temmies-origins:anomaly/night_vision",
+		"temmies-origins:anomaly/scorching_sun",
+		"temmies-origins:anomaly/starlight",
+		"temmies-origins:anomaly/strength",
+		"temmies-origins:anomaly/supernova",
+		"temmies-origins:anomaly/time_space_who_dis",
+		"temmies-origins:anomaly/unstable"
+	],
+	"icon": "minecraft:nether_star",
+	"impact": 3,
+	"name": "Anomaly",
+	"description": "Once an ancient star, now unstable energy."
+}

@@ -1,0 +1,19 @@
+{
+	"replace":false,
+	"values":[
+		"temmies-origins:calamitous-rogue/load",
+		"temmies-origins:corrupted-wither/load",
+		"temmies-origins:deathsworn/load",
+		"temmies-origins:devine-architect/load",
+		"temmies-origins:dullahan/load",
+		"temmies-origins:emblazing-warrior/load",
+		"temmies-origins:enigma/load",
+		"temmies-origins:glacier/load",
+		"temmies-origins:lunar-path/load",
+		"temmies-origins:rift-mage/load",
+		"temmies-origins:technomancer/load",
+		"temmies-origins:vishaichian/load",
+		"temmies-origins:witch-of-ink/load",
+		"temmies-origins:wandering-spirit/load"
+	]
+}

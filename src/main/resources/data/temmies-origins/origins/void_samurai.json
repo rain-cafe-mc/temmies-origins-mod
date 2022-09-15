@@ -1,0 +1,27 @@
+{
+	"powers": [
+		"temmies-origins:void-samurai/armor",
+		"temmies-origins:void-samurai/channel",
+		"temmies-origins:void-samurai/channela",
+		"temmies-origins:void-samurai/channelb",
+		"temmies-origins:void-samurai/charge",
+		"temmies-origins:void-samurai/curse",
+		"temmies-origins:void-samurai/del",
+		"temmies-origins:void-samurai/dela",
+		"temmies-origins:void-samurai/delb",
+		"temmies-origins:void-samurai/dodge",
+		"temmies-origins:void-samurai/drain",
+		"temmies-origins:void-samurai/frail",
+		"temmies-origins:void-samurai/nopotion",
+		"temmies-origins:void-samurai/noranged",
+		"temmies-origins:void-samurai/noshield",
+		"temmies-origins:void-samurai/potion",
+		"temmies-origins:void-samurai/rain_strength",
+		"temmies-origins:void-samurai/smite",
+		"temmies-origins:void-samurai/speed"
+	],
+	"icon": "minecraft:deepslate",
+	"impact": 2,
+	"name": "Void Samurai",
+	"description": "A human traped in the void for what felt like an eternity, who has finaly returned, but only partialy"
+}

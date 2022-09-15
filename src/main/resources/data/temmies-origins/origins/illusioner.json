@@ -1,0 +1,18 @@
+{
+	"powers": [
+		"origins:no_shield",
+		"temmies-origins:illusioner/bow_master",
+		"temmies-origins:illusioner/friendly",
+		"temmies-origins:illusioner/illusion",
+		"temmies-origins:illusioner/illusion_despawn",
+		"temmies-origins:illusioner/illusion_random_fm",
+		"temmies-origins:illusioner/invis",
+		"temmies-origins:illusioner/scary",
+		"temmies-origins:illusioner/sword_bad",
+		"temmies-origins:illusioner/villagers_no"
+	],
+	"icon": "minecraft:potion",
+	"impact": 3,
+	"name": "Illusioner",
+	"description": "You were made but never used now it's time to take revenge!"
+}

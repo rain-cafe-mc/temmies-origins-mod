@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"temmies-origins:spirit-ram/color",
+		"temmies-origins:spirit-ram/hearts",
+		"temmies-origins:spirit-ram/high_sleep",
+		"temmies-origins:spirit-ram/horn_pockets",
+		"temmies-origins:spirit-ram/hydrophobic",
+		"temmies-origins:spirit-ram/mist_protection",
+		"temmies-origins:spirit-ram/mist_protection_trigger",
+		"temmies-origins:spirit-ram/no_water",
+		"temmies-origins:spirit-ram/phase"
+	],
+	"icon": "minecraft:white_wool",
+	"impact": 3,
+	"name": "Spirit Ram",
+	"description": "A ram that has revisited Earth as a spirit to help people on their journey."
+}

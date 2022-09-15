@@ -1,0 +1,19 @@
+{
+    "powers": [
+        "temmies-origins:rift-mage/aurophilia",
+        "temmies-origins:rift-mage/city_memory",
+        "temmies-origins:rift-mage/fall_immune",
+        "temmies-origins:rift-mage/frail",
+        "temmies-origins:rift-mage/incompatible",
+        "temmies-origins:rift-mage/invert",
+        "temmies-origins:rift-mage/portality",
+        "temmies-origins:rift-mage/return_to_rift",
+        "temmies-origins:rift-mage/sustain",
+        "temmies-origins:rift-mage/turn_purpur",
+        "temmies-origins:rift-mage/water_hater"
+    ],
+    "icon": "purpur_block",
+    "impact": 2,
+    "name": "Rift Mage",
+    "description": "Rift Mages are known as 'The Immortals' in legends. Their control over space and time reigns supreme, able to defy even the Grim Reaper himself."
+}

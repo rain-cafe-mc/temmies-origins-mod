@@ -1,0 +1,18 @@
+{
+    "powers": [
+        "temmies-origins:golden-golem/armor_restriction",
+        "temmies-origins:golden-golem/extra_damage",
+        "temmies-origins:golden-golem/gold_color",
+        "temmies-origins:golden-golem/gold_resource",
+        "temmies-origins:golden-golem/gold_resource_extras",
+        "temmies-origins:golden-golem/golem_power",
+        "temmies-origins:golden-golem/health_resource",
+        "temmies-origins:golden-golem/health_resource_items",
+        "temmies-origins:golden-golem/slower",
+        "temmies-origins:golden-golem/water"
+    ],
+    "name": "Golden Golem",
+    "description": "A golem created by the illagers with gold and totems of undying.",
+    "icon": "minecraft:totem_of_undying",
+    "impact": 3
+}

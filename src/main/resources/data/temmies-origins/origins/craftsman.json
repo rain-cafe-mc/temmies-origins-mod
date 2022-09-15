@@ -1,0 +1,13 @@
+{
+    "name": "Craftsman",
+    "description": "Heir of a long lineage of craftsmen and knights you now are proficient in arts and crafts.",
+    "powers": [
+        "temmies-origins:craftsman/axe",
+        "temmies-origins:craftsman/crafting",
+        "temmies-origins:craftsman/fire",
+        "temmies-origins:craftsman/pillager",
+        "temmies-origins:craftsman/undead"
+    ],
+    "icon": "minecraft:crafting_table",
+    "impact": 1
+}

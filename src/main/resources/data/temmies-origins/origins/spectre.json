@@ -1,0 +1,27 @@
+{
+	"powers": [
+		"origins:no_shield",
+		"temmies-origins:spectre/accursed",
+		"temmies-origins:spectre/archangel_reach",
+		"temmies-origins:spectre/archangel_size",
+		"temmies-origins:spectre/demonic",
+		"temmies-origins:spectre/ethereal",
+		"temmies-origins:spectre/fallen",
+		"temmies-origins:spectre/flesh_craver",
+		"temmies-origins:spectre/ravenous",
+		"temmies-origins:spectre/respawn",
+		"temmies-origins:spectre/rotten_flesh",
+		"temmies-origins:spectre/soul_devourer",
+		"temmies-origins:spectre/soul_sacrifice",
+		"temmies-origins:spectre/spectre_infinite",
+		"temmies-origins:spectre/spectre_terror",
+		"temmies-origins:spectre/spectre_terror_toggle",
+		"temmies-origins:spectre/translucent",
+		"temmies-origins:spectre/water_loathing",
+		"temmies-origins:spectre/weakened"
+	],
+	"icon": "minecraft:blackstone",
+	"impact": 3,
+	"name": "Spectre",
+	"description": "Archangels corrupted by the devil during the war. The curse stripped off their wings and made them ravenous for flesh. They now roam aimlessly, hoping to regain their former glory."
+}

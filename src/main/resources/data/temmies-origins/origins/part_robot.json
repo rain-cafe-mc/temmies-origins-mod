@@ -1,0 +1,23 @@
+{
+	"powers": [
+		"temmies-origins:part-robot/alreadyiron",
+		"temmies-origins:part-robot/boiling",
+		"temmies-origins:part-robot/effectimmune",
+		"temmies-origins:part-robot/heavy",
+		"temmies-origins:part-robot/hydrophobia",
+		"temmies-origins:part-robot/laser",
+		"temmies-origins:part-robot/noregen",
+		"temmies-origins:part-robot/overheat",
+		"temmies-origins:part-robot/rapidlaser",
+		"temmies-origins:part-robot/regenerate",
+		"temmies-origins:part-robot/steel_skin",
+		"temmies-origins:part-robot/strong_arms",
+		"temmies-origins:part-robot/tank_skin",
+		"temmies-origins:part-robot/unexhausted",
+		"temmies-origins:part-robot/water_breather"
+	],
+	"icon": "minecraft:iron_block",
+	"impact": 2,
+	"name": "Part-Robot",
+	"description": "You are part-human, part-robot."
+}

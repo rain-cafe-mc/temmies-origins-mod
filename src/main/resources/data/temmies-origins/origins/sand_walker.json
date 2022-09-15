@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"temmies-origins:sand-walker/cold_hatred",
+		"temmies-origins:sand-walker/desert_spawn",
+		"temmies-origins:sand-walker/flesh_eater",
+		"temmies-origins:sand-walker/heat_resistance",
+		"temmies-origins:sand-walker/no_hunger",
+		"temmies-origins:sand-walker/sand_blender",
+		"temmies-origins:sand-walker/sand_shifter",
+		"temmies-origins:sand-walker/worse_steak"
+	],
+	"icon": "minecraft:sand",
+	"impact": 2,
+	"name": "Sand Walker",
+	"description": "The sand walker is a creature of the desert and sand, forever walking amungst the dunes."
+}

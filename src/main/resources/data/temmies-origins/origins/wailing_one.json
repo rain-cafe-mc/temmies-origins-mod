@@ -1,0 +1,29 @@
+{
+	"powers": [
+		"origins:ender_particles",
+		"temmies-origins:wailing-one/as_soft_as_a_wisp",
+		"temmies-origins:wailing-one/deathly_diet_health_gain_on_hit",
+		"temmies-origins:wailing-one/deathly_diet_hunger_gain_on_kill",
+		"temmies-origins:wailing-one/deathly_diet_rotten_flesh_eat",
+		"temmies-origins:wailing-one/float",
+		"temmies-origins:wailing-one/ghost",
+		"temmies-origins:wailing-one/hydrophobic",
+		"temmies-origins:wailing-one/particles",
+		"temmies-origins:wailing-one/phase",
+		"temmies-origins:wailing-one/photoallergic",
+		"temmies-origins:wailing-one/pure_steel_no_gold",
+		"temmies-origins:wailing-one/pure_steel_no_iron",
+		"temmies-origins:wailing-one/righteous_light_smite_damage",
+		"temmies-origins:wailing-one/spiteful_resistance",
+		"temmies-origins:wailing-one/swamp_spawn",
+		"temmies-origins:wailing-one/the_shadows_are_my_home",
+		"temmies-origins:wailing-one/the_shadows_are_my_home_armor",
+		"temmies-origins:wailing-one/touch_of_death",
+		"temmies-origins:wailing-one/translucent",
+		"temmies-origins:wailing-one/wail"
+	],
+	"icon": "minecraft:ghast_tear",
+	"impact": 3,
+	"name": "Wailing One",
+	"description": "A harbinger of death, villagers fear them, pillagers respect them, Wailing Ones are banshees whose presence and eerie cries always bring death, and are a reminder that all things must eventually end."
+}

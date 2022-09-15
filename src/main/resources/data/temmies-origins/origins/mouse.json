@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"temmies-origins:mouse/a_mouses_lifespan",
+		"temmies-origins:mouse/little_jump",
+		"temmies-origins:mouse/mischievous",
+		"temmies-origins:mouse/mob_ally",
+		"temmies-origins:mouse/motion",
+		"temmies-origins:mouse/mouse_sized",
+		"temmies-origins:mouse/reach",
+		"temmies-origins:mouse/ride",
+		"temmies-origins:mouse/yoink"
+	],
+	"icon": "minecraft:beef",
+	"impact": 3,
+	"name": "Mouse",
+	"description": "A small scavenger."
+}

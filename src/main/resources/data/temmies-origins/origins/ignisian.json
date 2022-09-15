@@ -1,0 +1,29 @@
+{
+	"powers": [
+		"temmies-origins:ignisian/archdemon_reach",
+		"temmies-origins:ignisian/archdemon_size",
+		"temmies-origins:ignisian/brawler",
+		"temmies-origins:ignisian/crimson",
+		"temmies-origins:ignisian/diabolic",
+		"temmies-origins:ignisian/extinguished",
+		"temmies-origins:ignisian/extinguished_air",
+		"temmies-origins:ignisian/extinguished_ignore",
+		"temmies-origins:ignisian/hades_hopper",
+		"temmies-origins:ignisian/hades_trembler",
+		"temmies-origins:ignisian/heavyweight",
+		"temmies-origins:ignisian/ignisian_wrath",
+		"temmies-origins:ignisian/ignisian_wrath_toggle",
+		"temmies-origins:ignisian/ignisian_zenith",
+		"temmies-origins:ignisian/ignisian_zenith_effects",
+		"temmies-origins:ignisian/infernal",
+		"temmies-origins:ignisian/leaper",
+		"temmies-origins:ignisian/predatory",
+		"temmies-origins:ignisian/punished",
+		"temmies-origins:ignisian/sluggish_arms",
+		"temmies-origins:ignisian/sluggish_break"
+	],
+	"icon": "minecraft:magma_block",
+	"impact": 3,
+	"name": "Ignisian",
+	"description": "Archdemons exiled after the rebellion. Weakened by the retribution, the betrayed Ignisians were driven to the shadows. Day by day, their power grows, and soon, vengeance will be theirs."
+}

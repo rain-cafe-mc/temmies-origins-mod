@@ -1,0 +1,31 @@
+{
+	"powers": [
+		"origins:pumpkin_hate",
+		"temmies-origins:end-mage/book",
+		"temmies-origins:end-mage/craft",
+		"temmies-origins:end-mage/crafts",
+		"temmies-origins:end-mage/endrage",
+		"temmies-origins:end-mage/health",
+		"temmies-origins:end-mage/makingpotion",
+		"temmies-origins:end-mage/makingsuperpotion",
+		"temmies-origins:end-mage/manapotion",
+		"temmies-origins:end-mage/primary",
+		"temmies-origins:end-mage/primaryshift",
+		"temmies-origins:end-mage/reach",
+		"temmies-origins:end-mage/reachh",
+		"temmies-origins:end-mage/resource",
+		"temmies-origins:end-mage/resourceempty",
+		"temmies-origins:end-mage/resourcelow",
+		"temmies-origins:end-mage/resourceregen",
+		"temmies-origins:end-mage/resourcerespawn",
+		"temmies-origins:end-mage/secondary",
+		"temmies-origins:end-mage/supermanapotion",
+		"temmies-origins:end-mage/tpwaypoint",
+		"temmies-origins:end-mage/waterdmg",
+		"temmies-origins:end-mage/waypoint"
+	],
+	"icon": "minecraft:end_crystal",
+	"impact": 3,
+	"name": "End Mage",
+	"description": "An ancient mage who studied the creatures of the end and tried to become one."
+}

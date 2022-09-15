@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"temmies-origins:red-panda/cute",
+		"temmies-origins:red-panda/diet",
+		"temmies-origins:red-panda/flammable",
+		"temmies-origins:red-panda/item_eater",
+		"temmies-origins:red-panda/junglenative",
+		"temmies-origins:red-panda/lazy",
+		"temmies-origins:red-panda/nocturnal",
+		"temmies-origins:red-panda/sharp_claws"
+	],
+	"icon": "minecraft:bamboo",
+	"impact": 2,
+	"name": "Red Panda",
+	"description": "The cutest origin there is! You 'prowl' the jungle as the most adorable predator."
+}

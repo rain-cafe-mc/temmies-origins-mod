@@ -1,0 +1,16 @@
+{
+    "name": "Boarling",
+    "description": "This tough-skinned race relies on their strength alone to get by in life.",
+    "powers": [
+        "temmies-origins:boarling/delicious",
+        "temmies-origins:boarling/gluttonous",
+        "temmies-origins:boarling/hogsound",
+        "temmies-origins:boarling/hogwild",
+        "temmies-origins:boarling/hooved",
+        "temmies-origins:boarling/overweight",
+        "temmies-origins:boarling/strong",
+        "temmies-origins:boarling/tough"
+    ],
+    "icon": "minecraft:porkchop",
+    "impact": 2
+}

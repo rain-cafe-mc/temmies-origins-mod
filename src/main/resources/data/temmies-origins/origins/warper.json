@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"temmies-origins:warper/echest",
+		"temmies-origins:warper/fall_break",
+		"temmies-origins:warper/food",
+		"temmies-origins:warper/passive_endermen",
+		"temmies-origins:warper/portalability",
+		"temmies-origins:warper/random_teleport",
+		"temmies-origins:warper/spawn",
+		"temmies-origins:warper/teleport",
+		"temmies-origins:warper/weak"
+	],
+	"icon": "minecraft:end_portal_frame",
+	"impact": 3,
+	"name": "Warper",
+	"description": "Teleport to your heart's content."
+}

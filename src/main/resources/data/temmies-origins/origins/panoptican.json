@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"origins:extra_reach",
+		"temmies-origins:panoptican/air_speed_boost",
+		"temmies-origins:panoptican/bystand",
+		"temmies-origins:panoptican/entity_glow",
+		"temmies-origins:panoptican/fire",
+		"temmies-origins:panoptican/float",
+		"temmies-origins:panoptican/fragile",
+		"temmies-origins:panoptican/glowtoggle",
+		"temmies-origins:panoptican/night_vision",
+		"temmies-origins:panoptican/particles",
+		"temmies-origins:panoptican/raycast"
+	],
+	"icon": "minecraft:ender_eye",
+	"impact": 3,
+	"name": "Panoptican",
+	"description":"Strange airborne entities that observe, hoard, and do not interfere."
+}

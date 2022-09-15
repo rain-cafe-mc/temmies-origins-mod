@@ -1,0 +1,29 @@
+{
+    "powers": [
+        "temmies-origins:ravager/bad_omen_on_death",
+        "temmies-origins:ravager/clumsy",
+        "temmies-origins:ravager/dash",
+        "temmies-origins:ravager/exhaust",
+        "temmies-origins:ravager/fear",
+        "temmies-origins:ravager/hard_hitting",
+        "temmies-origins:ravager/heavy_armor",
+        "temmies-origins:ravager/heavy_footed",
+        "temmies-origins:ravager/immense",
+        "temmies-origins:ravager/ram",
+        "temmies-origins:ravager/ram_cooldown",
+        "temmies-origins:ravager/ram_duration",
+        "temmies-origins:ravager/ram_knockback",
+        "temmies-origins:ravager/ravager_attribute1",
+        "temmies-origins:ravager/ravager_attribute2",
+        "temmies-origins:ravager/ravager_axe",
+        "temmies-origins:ravager/ravager_resource",
+        "temmies-origins:ravager/ravager_slowness",
+        "temmies-origins:ravager/team",
+        "temmies-origins:ravager/thick_skin",
+        "temmies-origins:ravager/vexy"
+    ],
+    "icon": "minecraft:saddle",
+    "impact": 2,
+    "name": "Ravager",
+    "description": "You are an illager experiment, something between their normal kind and the massive illager beasts known as ravagers."
+}

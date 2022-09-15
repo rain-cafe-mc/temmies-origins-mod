@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"temmies-origins:corrupted-wither/hunger",
+		"temmies-origins:corrupted-wither/hydrophobia",
+		"temmies-origins:corrupted-wither/skirmish",
+		"temmies-origins:corrupted-wither/unwieldy",
+		"temmies-origins:corrupted-wither/warp",
+		"temmies-origins:corrupted-wither/wieldy"
+    ],
+	"icon": "minecraft:dragon_breath",
+	"impact": 3,
+	"name": "Corrupted Wither",
+	"description": "You were experimented on by scientists and were exposed to dragons breath, you killed the scientists but not before the experiment was complete..."
+}

@@ -1,0 +1,28 @@
+{
+	"powers": [
+		"temmies-origins:demi-god/cake",
+		"temmies-origins:demi-god/cursed",
+		"temmies-origins:demi-god/fire",
+		"temmies-origins:demi-god/god_punch",
+		"temmies-origins:demi-god/god_speed",
+		"temmies-origins:demi-god/health",
+		"temmies-origins:demi-god/more_dragon_damage",
+		"temmies-origins:demi-god/more_guardian_damage",
+		"temmies-origins:demi-god/more_wither_damage",
+		"temmies-origins:demi-god/phase",
+		"temmies-origins:demi-god/raw_beef",
+		"temmies-origins:demi-god/raw_chicken",
+		"temmies-origins:demi-god/raw_cod",
+		"temmies-origins:demi-god/raw_diet",
+		"temmies-origins:demi-god/raw_mutton",
+		"temmies-origins:demi-god/raw_pork",
+		"temmies-origins:demi-god/raw_rabbit",
+		"temmies-origins:demi-god/raw_rotten_flesh",
+		"temmies-origins:demi-god/raw_salmon",
+		"temmies-origins:demi-god/raw_tropicalfish"
+	],
+	"icon": "minecraft:glowstone",
+	"impact": 2,
+	"name": "Demi-God",
+	"description": "After training for years on end you have overworked yourself to the point of being unstoppable, the only beings that would be able to beat you are the bosses themselves."
+}

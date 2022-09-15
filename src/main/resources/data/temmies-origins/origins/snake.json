@@ -1,0 +1,12 @@
+{
+    "name": "Snake",
+    "description": "You are #1 Snek now.",
+    "powers": [
+	    "temmies-origins:snake/bite",
+        "temmies-origins:snake/health",
+        "temmies-origins:snake/intimidate",
+        "temmies-origins:snake/lunge"
+    ],
+    "icon": "minecraft:scute",
+    "impact": 2
+}

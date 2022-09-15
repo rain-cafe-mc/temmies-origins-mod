@@ -1,0 +1,21 @@
+{
+	"powers":[
+	   "temmies-origins:withered-skeletian/charcoal_bones",
+	   "temmies-origins:withered-skeletian/immune",
+	   "temmies-origins:withered-skeletian/nether_inhabitant",
+	   "temmies-origins:withered-skeletian/nether_kinship",
+	   "temmies-origins:withered-skeletian/s_and_p/attacker",
+	   "temmies-origins:withered-skeletian/s_and_p/death",
+	   "temmies-origins:withered-skeletian/s_and_p/hit",
+	   "temmies-origins:withered-skeletian/s_and_p/passive",
+	   "temmies-origins:withered-skeletian/s_and_p/victim",
+	   "temmies-origins:withered-skeletian/sharper_stone",
+	   "temmies-origins:withered-skeletian/undead_body",
+	   "temmies-origins:withered-skeletian/unnatural_height",
+	   "temmies-origins:withered-skeletian/withering_presence"
+	],
+	"icon": "minecraft:wither_skeleton_skull",
+	"impact": 3,
+	"name": "Withered Skeletian",
+	"description": "You are a Wither Skeleton, your body is strong and your bones rattle like those of your brothers and sisters in the underworld."
+}

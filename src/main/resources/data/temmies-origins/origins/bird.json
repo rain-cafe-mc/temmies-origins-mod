@@ -1,0 +1,24 @@
+{
+	"powers": [
+		"origins:more_kinetic_damage",
+		"temmies-origins:bird/almost_no_armor",
+		"temmies-origins:bird/feather_grip",
+		"temmies-origins:bird/feather_grip_spectral",
+		"temmies-origins:bird/granivore",
+		"temmies-origins:bird/jockey",
+		"temmies-origins:bird/launch",
+		"temmies-origins:bird/love_air",
+		"temmies-origins:bird/more_air_damage",
+		"temmies-origins:bird/no-food",
+		"temmies-origins:bird/no-shield",
+		"temmies-origins:bird/smaller-appetite",
+		"temmies-origins:bird/smaller_body",
+		"temmies-origins:bird/smol_birb",
+		"temmies-origins:bird/tweet",
+		"temmies-origins:bird/wings"
+	],
+	"icon": "minecraft:chicken",
+	"impact": 3,
+	"name": "Bird",
+	"description": "Birds are small and very cute. They can also fly and chirp."
+}

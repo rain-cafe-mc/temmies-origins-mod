@@ -1,0 +1,61 @@
+{
+    "type": "origins:multiple",
+    "slow_falling": {
+        "type": "origins:stacking_status_effect",
+        "min_stacks": 0,
+        "max_stacks": 1,
+        "duration_per_stack": 80,
+        "effects": [
+            {
+                "effect": "minecraft:slow_falling",
+                "is_ambient": true,
+                "show_particles": false,
+                "show_icon": false,
+                "amplifier": 0
+            }
+        ],
+        "condition": {
+            "type": "origins:and",
+            "conditions": [{
+                "type": "origins:submerged_in",
+                "fluid": "minecraft:water",
+                "inverted": true
+            }, {
+                "type": "origins:submerged_in",
+                "fluid": "minecraft:lava",
+                "inverted": true
+            }, {
+                "type": "origins:gamemode",
+                "gamemode": "creative",
+                "inverted": true
+            }]
+        }
+    },
+    "auto_disable": {
+        "type": "origins:active_self",
+        "entity_action": {
+            "type": "origins:if_else",
+            "condition": {
+                "type": "origins:or",
+                "conditions": [{
+                    "type": "origins:submerged_in",
+                    "fluid": "minecraft:water"
+                }, {
+                    "type": "origins:submerged_in",
+                    "fluid": "minecraft:lava"
+                }, {
+                    "type": "origins:gamemode",
+                    "gamemode": "creative"
+                }]
+            },
+            "if_action": {
+                "type": "origins:clear_effect",
+                "effect": "minecraft:slow_falling"
+            },
+            "else_action": {
+                "type": "origins:nothing"
+            }
+        }
+    },
+    "hidden": true
+}

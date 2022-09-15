@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+
+[[mods]]
+modId="temmies_origins"
+version="${version}"
+displayName="Temmie's Origins"
+description='Origins made especially for the Temmie's Origins Modpack! c:'
+
+displayURL="https://github.com/temmies-origins/temmies-origins-modpack"
+issueTrackerURL="https://github.com/temmies-origins/temmies-origins-modpack/issues"
+authors="Ceci"
+logoFile="icon.png"
+
+[[dependencies.temmies_origins]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,)"
+
+[[dependencies.temmies_origins]]
+    modId="origins"
+    mandatory=true
+    versionRange="[1.19.2-1.5.0.6,)"
+	
+[[dependencies.temmies_origins]]
+    modId="pehkui"
+    mandatory=true
+    versionRange="[3.3.3,)"

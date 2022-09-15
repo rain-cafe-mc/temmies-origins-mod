@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"temmies-origins:war-god/axe_god",
+		"temmies-origins:war-god/born_in_fire",
+		"temmies-origins:war-god/hungry",
+		"temmies-origins:war-god/moonlight_darkness",
+		"temmies-origins:war-god/not_a_ranged_specialist",
+		"temmies-origins:war-god/philza_reference",
+		"temmies-origins:war-god/strong",
+		"temmies-origins:war-god/swordsman",
+		"temmies-origins:war-god/warrior"
+	],
+	"icon": "minecraft:iron_axe",
+	"impact": 2,
+	"name": "War God",
+	"description": "Inspired by the war god in Passerine."
+}

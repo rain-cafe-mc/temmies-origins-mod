@@ -1,0 +1,21 @@
+{
+	"powers": [
+		"temmies-origins:wandering-spirit/damage_glitch",
+		"temmies-origins:wandering-spirit/fire",
+		"temmies-origins:wandering-spirit/glasses",
+		"temmies-origins:wandering-spirit/lightning_charge",
+		"temmies-origins:wandering-spirit/lightning_invulnerability",
+		"temmies-origins:wandering-spirit/lightning_summon",
+		"temmies-origins:wandering-spirit/phase",
+		"temmies-origins:wandering-spirit/quick_hands_and_feet",
+		"temmies-origins:wandering-spirit/shaking",
+		"temmies-origins:wandering-spirit/size_change",
+		"temmies-origins:wandering-spirit/size_changer",
+		"temmies-origins:wandering-spirit/size_resource",
+		"temmies-origins:wandering-spirit/the_darkness"
+	],
+	"icon": "minecraft:crimson_roots",
+	"impact": 3,
+	"name": "Wandering Spirit",
+	"description": "You are a Spirit, lost in the overworld for reasons unknown to you. Your thoughts and memories, the only thing that linger from your past life."
+}

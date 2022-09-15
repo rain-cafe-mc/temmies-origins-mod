@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"origins:tailwind",
+		"origins:fall_immunity",
+		"origins:carnivore",
+		"temmies-origins:raptus/biteforce",
+		"temmies-origins:raptus/higher_jump",
+		"temmies-origins:raptus/light_armor",
+		"temmies-origins:raptus/pounce",
+		"temmies-origins:raptus/small",
+		"temmies-origins:raptus/smaller_body"
+	],
+	"icon": "minecraft:lime_dye",
+	"impact": 2,
+	"name": "Raptus",
+	"description": "These dinosaur-like creatures are descendants of velociraptors. Nowadays, they can be found hunting in packs or resting."
+}

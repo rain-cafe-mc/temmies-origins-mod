@@ -1,0 +1,18 @@
+{
+    "powers": [
+        "temmies-origins:calamitous-rogue/assassin",
+        "temmies-origins:calamitous-rogue/bad_trade",
+        "temmies-origins:calamitous-rogue/dps",
+        "temmies-origins:calamitous-rogue/escape",
+        "temmies-origins:calamitous-rogue/expert",
+        "temmies-origins:calamitous-rogue/infamous",
+        "temmies-origins:calamitous-rogue/smooth_talk",
+        "temmies-origins:calamitous-rogue/stealth",
+        "temmies-origins:calamitous-rogue/strike",
+        "temmies-origins:calamitous-rogue/traceless"
+    ],
+    "icon": "minecraft:redstone",
+    "impact": 2,
+    "name": "Calamitous Rogue",
+    "description": "You lurk in the shadows, waiting for just the right moment to strike. Luckily for you, unlike the average rogue you've learned different weapon disciplines for ambushes."
+}

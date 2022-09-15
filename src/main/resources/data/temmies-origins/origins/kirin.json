@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"origins:carnivore",
+		"origins:cat_vision",
+		"origins:fall_immunity",
+		"origins:nine_lives",
+		"origins:sprint_jump",
+		"temmies-origins:kirin/cat_size",
+		"temmies-origins:kirin/climb",
+		"temmies-origins:kirin/dislike_of_water",
+		"temmies-origins:kirin/exhaustion",
+		"temmies-origins:kirin/jump_boost",
+		"temmies-origins:kirin/modify_player_speed",
+		"temmies-origins:kirin/unrivaled_speed"
+	],
+	"icon": "minecraft:cod",
+	"impact": 3,
+	"name": "Kirin",
+	"description": "Basically, like the cat and fox origins but better."
+}

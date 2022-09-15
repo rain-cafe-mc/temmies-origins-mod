@@ -1,0 +1,23 @@
+{
+	"powers": [
+		"temmies-origins:moth/climbing",
+		"temmies-origins:moth/compound_vision",
+		"temmies-origins:moth/easy_evasion",
+		"temmies-origins:moth/explusion",
+		"temmies-origins:moth/flammable_body",
+		"temmies-origins:moth/glowaffinity",
+		"temmies-origins:moth/jackoaffinity",
+		"temmies-origins:moth/light_affinity",
+		"temmies-origins:moth/lightweight",
+		"temmies-origins:moth/overwhelming_light",
+		"temmies-origins:moth/sea_light",
+		"temmies-origins:moth/short",
+		"temmies-origins:moth/soulaffinity",
+		"temmies-origins:moth/soulaffinity_two",
+		"temmies-origins:moth/wings"
+	],
+	"icon": "minecraft:lantern",
+	"impact": 2,
+	"name": "Moth",
+	"description": "The light calls to you."
+}

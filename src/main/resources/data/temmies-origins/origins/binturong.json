@@ -1,0 +1,32 @@
+{
+	"powers": [
+		"origins:climbing",
+		"origins:scare_creepers",
+		"temmies-origins:binturong/blast_damage",
+		"temmies-origins:binturong/effects",
+		"temmies-origins:binturong/fallimmune",
+		"temmies-origins:binturong/fire",
+		"temmies-origins:binturong/flight",
+		"temmies-origins:binturong/frail",
+		"temmies-origins:binturong/invisibility",
+		"temmies-origins:binturong/jockey",
+		"temmies-origins:binturong/jumpboost",
+		"temmies-origins:binturong/junglenative",
+		"temmies-origins:binturong/lowground",
+		"temmies-origins:binturong/lowground",
+		"temmies-origins:binturong/maniac_digger",
+		"temmies-origins:binturong/nimble",
+		"temmies-origins:binturong/nocturnal",
+		"temmies-origins:binturong/phantomize",
+		"temmies-origins:binturong/pounce",
+		"temmies-origins:binturong/shake",
+		"temmies-origins:binturong/small_stature",
+		"temmies-origins:binturong/sounds",
+		"temmies-origins:binturong/sugar_rush",
+		"temmies-origins:binturong/tooheavy"
+	],
+	"icon": "minecraft:cocoa_beans",
+	"impact": 2,
+	"name": "Binturong",
+	"description": "A binturong is a bear cat of the trees."
+}

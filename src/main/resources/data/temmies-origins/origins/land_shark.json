@@ -1,0 +1,20 @@
+{
+    "name": "Land Shark",
+    "description": "A shark that can survive both on land and in water.",
+    "powers": [
+        "origins:carnivore",
+        "origins:aqua_affinity",
+        "origins:like_water",
+        "origins:no_shield",
+		"temmies-origins:land-shark/fins",
+        "temmies-origins:land-shark/freak_of_nature",
+        "temmies-origins:land-shark/gillungs",
+        "temmies-origins:land-shark/greedy",
+        "temmies-origins:land-shark/hongry",
+        "temmies-origins:land-shark/lunge",
+        "temmies-origins:land-shark/razor_teeth",
+        "temmies-origins:land-shark/speedy_boi"
+    ],
+    "icon": "minecraft:prismarine_shard",
+    "impact": 2
+}

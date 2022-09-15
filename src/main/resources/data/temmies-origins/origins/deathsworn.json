@@ -1,0 +1,26 @@
+{
+    "powers": [
+        "origins:burn_in_daylight",
+        "temmies-origins:deathsworn/appraisal",
+        "temmies-origins:deathsworn/command",
+        "temmies-origins:deathsworn/disconnect",
+        "temmies-origins:deathsworn/equip",
+        "temmies-origins:deathsworn/freeze",
+        "temmies-origins:deathsworn/join_team",
+        "temmies-origins:deathsworn/night_lover",
+        "temmies-origins:deathsworn/no_melee",
+        "temmies-origins:deathsworn/no_trades",
+        "temmies-origins:deathsworn/petrified_heart",
+        "temmies-origins:deathsworn/small_shot",
+        "temmies-origins:deathsworn/soul",
+        "temmies-origins:deathsworn/special",
+        "temmies-origins:deathsworn/stat_checker",
+        "temmies-origins:deathsworn/summon",
+		"temmies-origins:deathsworn/take_soul"
+
+    ],
+    "icon": "minecraft:nether_wart_block",
+    "impact": 3,
+    "name": "Deathsworn",
+    "description": "You are a necromancer with control over everything belonging to the afterlife."
+}

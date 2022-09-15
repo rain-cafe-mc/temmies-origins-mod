@@ -1,0 +1,25 @@
+{
+	"powers": [
+		"temmies-origins:giant/armor",
+		"temmies-origins:giant/big",
+		"temmies-origins:giant/bow",
+		"temmies-origins:giant/bowcross",
+		"temmies-origins:giant/breath",
+		"temmies-origins:giant/health",
+		"temmies-origins:giant/hunger",
+		"temmies-origins:giant/item",
+		"temmies-origins:giant/limbs",
+		"temmies-origins:giant/mount",
+		"temmies-origins:giant/slam",
+		"temmies-origins:giant/sleep",
+		"temmies-origins:giant/slow",
+		"temmies-origins:giant/spider",
+		"temmies-origins:giant/strong",
+		"temmies-origins:giant/sturdy",
+		"temmies-origins:giant/swim"
+	],
+	"icon": "minecraft:leather_chestplate",
+	"impact": 3,
+	"name": "Giant",
+	"description": "The giants are an ancient race, becoming quite a rare sight in modern times. Their history remains unknown with few left to keep it alive."
+}

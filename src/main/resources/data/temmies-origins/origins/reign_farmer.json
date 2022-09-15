@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"origins:vegetarian",
+		"temmies-origins:reign-farmer/lightly_armored",
+		"temmies-origins:reign-farmer/nimble",
+		"temmies-origins:reign-farmer/nourish",
+		"temmies-origins:reign-farmer/pacifist",
+		"temmies-origins:reign-farmer/photosynthesis",
+		"temmies-origins:reign-farmer/shields_are_heavy",
+		"temmies-origins:reign-farmer/strength_of_crops",
+		"temmies-origins:reign-farmer/the_gift_of_life"
+	],
+	"icon": "minecraft:netherite_hoe",
+	"impact": 1,
+	"name": "Reign Farmer",
+	"description": "You have been farming for years, to the point that you've mastered every aspect of it."
+}

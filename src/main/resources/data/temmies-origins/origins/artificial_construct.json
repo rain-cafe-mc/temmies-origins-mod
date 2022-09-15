@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "temmies-origins:artificial-construct/arm_long_yes",
+        "temmies-origins:artificial-construct/battery",
+        "temmies-origins:artificial-construct/battery_resource",
+        "temmies-origins:artificial-construct/dispenser_boi",
+        "temmies-origins:artificial-construct/food_unecessary",
+        "temmies-origins:artificial-construct/iron_nugget_heal",
+        "temmies-origins:artificial-construct/less_fall",
+        "temmies-origins:artificial-construct/metal",
+        "temmies-origins:artificial-construct/storage"
+    ],
+    "name": "Artificial Contruct",
+    "description": "Constructs are a combination of simple redstone components and complicated machinery to make a functional living being.",
+    "icon": "minecraft:redstone_torch",
+    "impact": 3
+}

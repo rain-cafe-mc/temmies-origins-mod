@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"temmies-origins:warforged/robotic_body",
+		"temmies-origins:warforged/rust",
+		"temmies-origins:warforged/scotopic_vision",
+		"temmies-origins:warforged/weaponized_body"
+	],
+	"icon": "minecraft:iron_chestplate",
+	"impact": 3,
+	"name": "Warforged",
+	"description": "Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond war."
+}

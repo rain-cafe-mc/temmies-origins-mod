@@ -1,0 +1,15 @@
+{
+	"type": "origins:toggle",
+	"hidden": true,
+	"key": {
+		"key": "key.origins.primary_active",
+		"continuous": false
+	},
+	"retain_state": false,
+	"condition": {
+		"type": "origins:resource",
+		"resource": "temmies-origins:ignisian/ignisian_zenith",
+		"comparison": ">",
+		"compare_to": 0
+	}
+}

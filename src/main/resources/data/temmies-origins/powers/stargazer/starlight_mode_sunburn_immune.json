@@ -1,0 +1,12 @@
+{
+    "type": "origins:effect_immunity",
+    "effects": [
+      "minecraft:slowness"
+    ],
+    "condition": {
+      "type": "origins:power_active",
+      "power": "temmies-origins:stargazer/starlight_mode"
+  },
+  "hidden": true
+}
+  

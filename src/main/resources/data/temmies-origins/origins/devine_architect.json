@@ -1,0 +1,26 @@
+{
+	"powers": [
+		"temmies-origins:devine-architect/charges",
+		"temmies-origins:devine-architect/demonic_jealousy",
+		"temmies-origins:devine-architect/disable_regen",
+		"temmies-origins:devine-architect/distrust",
+		"temmies-origins:devine-architect/end_recipes",
+		"temmies-origins:devine-architect/end_travel",
+		"temmies-origins:devine-architect/fall_immunity",
+		"temmies-origins:devine-architect/float",
+		"temmies-origins:devine-architect/high_stamina",
+		"temmies-origins:devine-architect/nether_travel",
+		"temmies-origins:devine-architect/night_vision",
+		"temmies-origins:devine-architect/old_teachings",
+		"temmies-origins:devine-architect/overtime",
+		"temmies-origins:devine-architect/personalized_ender_chest",
+		"temmies-origins:devine-architect/phase",
+		"temmies-origins:devine-architect/regen",
+		"temmies-origins:devine-architect/universal_blast",
+		"temmies-origins:devine-architect/water_breathing"
+	],
+	"icon": "minecraft:end_crystal",
+	"impact": 3,
+	"name": "Devine Architect",
+	"description": "Long ago before the formation of the Minecraft universe there were groups of architects the construct each element of the universe. They all worked together to construct all the blocks and biomes of the universe. But eventually went extinct once their jobs had finished."
+}

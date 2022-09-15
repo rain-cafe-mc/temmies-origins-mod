@@ -1,0 +1,21 @@
+{
+	"powers": [
+		"temmies-origins:insect/anklebite",
+		"temmies-origins:insect/climbing",
+		"temmies-origins:insect/falldamage",
+		"temmies-origins:insect/flap",
+		"temmies-origins:insect/health",
+		"temmies-origins:insect/height",
+		"temmies-origins:insect/lava",
+		"temmies-origins:insect/rain_slowness",
+		"temmies-origins:insect/reach",
+		"temmies-origins:insect/small",
+		"temmies-origins:insect/speed",
+		"temmies-origins:insect/water",
+		"temmies-origins:insect/water_slowness"
+	],
+	"icon": "minecraft:vine",
+	"impact": 2,
+	"name": "Insect",
+	"description": "The people who have evolved to live with the insects."
+}

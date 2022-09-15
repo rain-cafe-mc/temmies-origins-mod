@@ -1,0 +1,14 @@
+{
+	"replace":false,
+	"values":[
+		"temmies-origins:calamitous-rogue/loop",
+		"temmies-origins:corrupted-wither/loop",
+		"temmies-origins:deathsworn/loop",
+		"temmies-origins:dullahan/tick",
+		"temmies-origins:emblazing-warrior/loop",
+		"temmies-origins:enigma/loop",
+		"temmies-origins:rift-mage/loop",
+		"temmies-origins:technomancer/tick",
+		"temmies-origins:witch-of-ink/loop"
+	]
+}

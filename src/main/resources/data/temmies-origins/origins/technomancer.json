@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"origins:no_shield",
+		"temmies-origins:technomancer/blockade",
+		"temmies-origins:technomancer/grappling_hook",
+		"temmies-origins:technomancer/healing_aura",
+		"temmies-origins:technomancer/laser_beam",
+		"temmies-origins:technomancer/nanite_wall",
+		"temmies-origins:technomancer/nanite_wall_toggle",
+		"temmies-origins:technomancer/summon_items",
+		"temmies-origins:technomancer/tech_mana",
+		"temmies-origins:technomancer/technomancers_curse",
+		"temmies-origins:technomancer/vulnerable_to_water"
+	],
+	"icon": "minecraft:redstone",
+	"impact": 3,
+	"name": "Technomancer",
+	"description": "You are a powerful Technomancer. Armed with the power and knowledge of the godfathers of technomancy, you are able to create spells using conduits and your staff."
+}

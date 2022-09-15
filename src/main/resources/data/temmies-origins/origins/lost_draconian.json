@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"origins:elytra",
+		"temmies-origins:lost-draconian/fireisstrange",
+		"temmies-origins:lost-draconian/hydrophobia",
+		"temmies-origins:lost-draconian/launch_into_air",
+		"temmies-origins:lost-draconian/passive",
+		"temmies-origins:lost-draconian/runt",
+		"temmies-origins:lost-draconian/sensitivetosun",
+		"temmies-origins:lost-draconian/soft_landing",
+		"temmies-origins:lost-draconian/teleport",
+		"temmies-origins:lost-draconian/transparent_skin",
+		"temmies-origins:lost-draconian/warrior",
+		"temmies-origins:lost-draconian/weakened",
+		"temmies-origins:lost-draconian/weapon",
+		"temmies-origins:lost-draconian/weapon2"
+	],
+	"icon": "minecraft:chorus_fruit",
+	"impact": 3,
+	"name": "Lost Draconia",
+	"description": "You was once a strong warrior for the draconia race that lived in the end, however during a war in the overworld you were killed. Many years later you awaken to find your dead yet still alive in the form of a lost draconian spirit."
+}

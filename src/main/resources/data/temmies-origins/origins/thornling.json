@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"temmies-origins:thornling/bag",
+		"temmies-origins:thornling/conductor",
+		"temmies-origins:thornling/decay",
+		"temmies-origins:thornling/dwarf",
+		"temmies-origins:thornling/empowered",
+		"temmies-origins:thornling/sounds",
+		"temmies-origins:thornling/thorns"
+	],
+	"icon": "minecraft:medium_amethyst_bud",
+	"impact": 3,
+	"name": "Thornling",
+	"description": "You're a small arcane creature, protected by a strange magical spell. You don't know where you came from, you just know you exist."
+}

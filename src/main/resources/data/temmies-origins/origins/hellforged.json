@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"origins:nether_spawn",
+		"temmies-origins:hellforged/fiery_metal",
+		"temmies-origins:hellforged/heat_powered",
+		"temmies-origins:hellforged/impervious_eyes",
+		"temmies-origins:hellforged/slow_swim",
+		"temmies-origins:hellforged/strong_swim",
+		"temmies-origins:hellforged/superheated",
+		"temmies-origins:hellforged/water_vulnerability"
+	],
+	"icon": "minecraft:netherite_ingot",
+	"impact": 3,
+	"name": "Hellforged",
+	"description": "A being, created and forged within the darkest depths of hell. It thrives off of the heat and will freeze rapidly if not hot enough."
+}

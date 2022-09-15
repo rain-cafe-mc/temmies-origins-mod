@@ -1,0 +1,27 @@
+ {
+	"powers": [
+		"origins:climbing",
+		"origins:fragile",
+		"origins:more_kinetic_damage",
+		"origins:light_armor",
+		"temmies-origins:iceling/blue_transparent_skin",
+		"temmies-origins:iceling/cold_speed",
+		"temmies-origins:iceling/cold_power",
+		"temmies-origins:iceling/disable_regen",
+		"temmies-origins:iceling/fire",
+		"temmies-origins:iceling/harvest_now",
+		"temmies-origins:iceling/hot_biome",
+		"temmies-origins:iceling/immunity",
+		"temmies-origins:iceling/nib",
+		"temmies-origins:iceling/nohunger",
+		"temmies-origins:iceling/regen",
+		"temmies-origins:iceling/shard",
+		"temmies-origins:iceling/size",
+		"temmies-origins:iceling/speed",
+		"temmies-origins:iceling/water"
+	],
+	"icon": "minecraft:ice",
+	"impact": 3,
+	"name": "Iceling",
+	"description": "An evolved form of the inchling, adapted to the cold."
+}

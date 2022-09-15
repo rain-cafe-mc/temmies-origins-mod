@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"temmies-origins:candyperson/cakemaster",
+		"temmies-origins:candyperson/cookiemaster",
+		"temmies-origins:candyperson/favoritefood",
+		"temmies-origins:candyperson/hardsugar",
+		"temmies-origins:candyperson/sugaraddict",
+		"temmies-origins:candyperson/sugarexpert",
+		"temmies-origins:candyperson/sugarkit",
+		"temmies-origins:candyperson/sugarstomach",
+		"temmies-origins:candyperson/sweetrecipe"
+	],
+	"icon": "minecraft:sugar",
+	"impact": 2,
+	"name": "Candy Person",
+	"description": "A sugar-like entity that has a serius problem with sweet food!"
+}

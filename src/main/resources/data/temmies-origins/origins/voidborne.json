@@ -1,0 +1,18 @@
+{
+	"powers":[
+	   "temmies-origins:voidborne/brittle_bones",
+	   "temmies-origins:voidborne/dive_attack",
+	   "temmies-origins:voidborne/field_forces",
+	   "temmies-origins:voidborne/large_appetite",
+	   "temmies-origins:voidborne/low_health",
+	   "temmies-origins:voidborne/void_child",
+	   "temmies-origins:voidborne/void_shield",
+	   "temmies-origins:voidborne/voidborne_form",
+	   "temmies-origins:voidborne/winged",
+	   "temmies-origins:voidborne/winged_limits"
+	],
+	"icon": "minecraft:bedrock",
+	"impact": 3,
+	"name": "Voidborne",
+	"description": "You are a descendant of the void. You have received the gift of flight, and the ability to escape the void. But don't stray too far from home."
+}

@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"origins:more_exhaustion",
+		"temmies-origins:earth-spirit/backtostone",
+		"temmies-origins:earth-spirit/invisibility",
+		"temmies-origins:earth-spirit/phasetoggle",
+		"temmies-origins:earth-spirit/phasing",
+		"temmies-origins:earth-spirit/spiriteffect",
+		"temmies-origins:earth-spirit/spiritvision"
+	],
+	"icon": "minecraft:granite",
+	"impact": 3,
+	"name": "Earth Spirit (Spiritual Form)",
+	"description": "The spiritual form of the earth spirit.",
+	"unchoosable": true
+}

@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"temmies-origins:goolien/absorbent",
+		"temmies-origins:goolien/condensing",
+		"temmies-origins:goolien/flammable",
+		"temmies-origins:goolien/gooey_body",
+		"temmies-origins:goolien/gooey_fists",
+		"temmies-origins:goolien/gooey_skin",
+		"temmies-origins:goolien/ignitable",
+		"temmies-origins:goolien/no_lungs",
+		"temmies-origins:goolien/splat",
+		"temmies-origins:goolien/sticky_grip",
+		"temmies-origins:goolien/stomach_body"
+	],
+	"icon": "minecraft:slime_block",
+	"impact": 3,
+	"name": "Goolien",
+	"description": "A gooey alien species that is often confused with their terrestrial slimey cousins."
+}

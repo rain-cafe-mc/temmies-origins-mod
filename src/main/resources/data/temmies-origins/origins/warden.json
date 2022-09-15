@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"origins:no_shield",
+		"temmies-origins:warden/blind",
+		"temmies-origins:warden/echolocation",
+		"temmies-origins:warden/health",
+		"temmies-origins:warden/phase",
+		"temmies-origins:warden/shader",
+		"temmies-origins:warden/size",
+		"temmies-origins:warden/strength"
+	],
+	"icon": "minecraft:sculk_sensor",
+	"impact": 3,
+	"name": "Warden",
+	"description": "Your warden character has certain traits deriving from your ancestry."
+}

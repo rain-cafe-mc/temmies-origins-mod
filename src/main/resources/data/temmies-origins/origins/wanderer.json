@@ -1,0 +1,21 @@
+{
+    "name": "Wanderer",
+    "description": "The sense of adventure and the excitement of new things guide you. You became a wanderer, learning many useful skills on the way.",
+    "powers": [
+		"temmies-origins:wanderer/bag",
+		"temmies-origins:wanderer/cross",
+        "temmies-origins:wanderer/heal_c",
+        "temmies-origins:wanderer/heal_e",
+	    "temmies-origins:wanderer/heal_g",
+        "temmies-origins:wanderer/heal_l",
+        "temmies-origins:wanderer/heal_t",
+        "temmies-origins:wanderer/hunger",
+        "temmies-origins:wanderer/hunger_c",
+        "temmies-origins:wanderer/hunger_l",
+        "temmies-origins:wanderer/leather",
+        "temmies-origins:wanderer/night",
+        "temmies-origins:wanderer/trade"
+    ],
+    "icon": "minecraft:soul_lantern",
+    "impact": 1
+}

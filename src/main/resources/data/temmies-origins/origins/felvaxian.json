@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"origins:no_shield",
+		"temmies-origins:felvaxian/carnivore",
+		"temmies-origins:felvaxian/fall_immunity",
+		"temmies-origins:felvaxian/feline_eyes",
+		"temmies-origins:felvaxian/feline_legs",
+		"temmies-origins:felvaxian/pounce",
+		"temmies-origins:felvaxian/ravens_defense",
+		"temmies-origins:felvaxian/scavenger_pouch",
+		"temmies-origins:felvaxian/soaring_wings",
+		"temmies-origins:felvaxian/tigers_roar",
+		"temmies-origins:felvaxian/unholy_aura",
+		"temmies-origins:felvaxian/weaker_heart"
+	],
+	"icon": "minecraft:black_dye",
+	"impact": 2,
+	"name": "Felvaxian",
+	"description": "A feline raven that can soar and pounce. A carnivouros hunter and high flyer"
+}

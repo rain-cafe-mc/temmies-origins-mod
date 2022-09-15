@@ -1,0 +1,24 @@
+{
+	"powers": [
+		"origins:burning_wrath",
+		"temmies-origins:blazian/all_that_glitters",
+		"temmies-origins:blazian/blazing_leap",
+		"temmies-origins:blazian/charge_barrage",
+		"temmies-origins:blazian/cold_here",
+		"temmies-origins:blazian/fear_of_faucets",
+		"temmies-origins:blazian/fire",
+		"temmies-origins:blazian/fortress",
+		"temmies-origins:blazian/hot_hands",
+		"temmies-origins:blazian/lava_swim",
+		"temmies-origins:blazian/nether_ally",
+		"temmies-origins:blazian/no_place_like_home",
+		"temmies-origins:blazian/overworld",
+		"temmies-origins:blazian/particles",
+		"temmies-origins:blazian/punch",
+		"temmies-origins:blazian/slow_fall_clear"
+	],
+	"icon": "minecraft:magma_cream",
+	"impact": 3,
+	"name": "Blazian",
+	"description": "A better version of the blazeborn origin!"
+}

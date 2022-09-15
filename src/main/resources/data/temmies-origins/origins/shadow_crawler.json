@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"temmies-origins:shadow-crawler/blinding_light",
+		"temmies-origins:shadow-crawler/dark_boost",
+		"temmies-origins:shadow-crawler/day_weakness",
+		"temmies-origins:shadow-crawler/disable_regen",
+		"temmies-origins:shadow-crawler/night_vision",
+		"temmies-origins:shadow-crawler/no_exhaustion",
+		"temmies-origins:shadow-crawler/regen",
+		"temmies-origins:shadow-crawler/shadow_warp",
+		"temmies-origins:shadow-crawler/shadowy_form"
+	],
+	"icon": "minecraft:structure_void",
+	"impact": 3,
+	"name": "Shadow Crawler",
+	"description": "You were once human until you were trapped in an empty, void-like dimension eventually adapting to it over hundreds of years."
+}

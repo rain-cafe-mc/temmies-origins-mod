@@ -1,0 +1,25 @@
+{
+    "name": "Fallen Angel",
+    "description": "After spending an eternity in hell, you finally escaped and are craving some revenge.",
+    "powers": [
+        "origins:water_vulnerability",
+        "origins:natural_armor",
+        "temmies-origins:fallen-angel/arms",
+        "temmies-origins:fallen-angel/bloodthirsty",
+        "temmies-origins:fallen-angel/carnivore",
+        "temmies-origins:fallen-angel/deadshot",
+        "temmies-origins:fallen-angel/elytra",
+        "temmies-origins:fallen-angel/fall",
+        "temmies-origins:fallen-angel/fire",
+        "temmies-origins:fallen-angel/fragile",
+        "temmies-origins:fallen-angel/glowing",
+        "temmies-origins:fallen-angel/haste",
+        "temmies-origins:fallen-angel/immunity",
+        "temmies-origins:fallen-angel/noshield",
+        "temmies-origins:fallen-angel/roof",
+        "temmies-origins:fallen-angel/translucent",
+        "temmies-origins:fallen-angel/velocity"
+    ],
+    "icon": "minecraft:elytra",
+    "impact": 3
+}

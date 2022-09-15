@@ -1,0 +1,12 @@
+{
+    "name": "Snek Health",
+    "description": "You have the health of a snek.",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "addition",
+        "value": -4,
+        "name": "blAh"
+    },
+    "update_health": true
+}

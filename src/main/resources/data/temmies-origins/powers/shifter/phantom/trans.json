@@ -1,0 +1,22 @@
+{
+    "name": "Phantom Like",
+    "description": "You are translucent and have 6 hearts.",
+    "type": "origins:model_color",
+    "alpha": 0.5,
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+              {
+                  "type": "origins:power_active",
+                  "power": "temmies-origins:shifter/phantom/phasing_toggle",
+                  "inverted": true
+              },
+              {
+                  "type": "origins:resource",
+                  "resource": "temmies-origins:shifter/shift_bar",
+                  "comparison": "==",
+                  "compare_to": 9 
+              }
+          ]
+      }
+}

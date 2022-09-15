@@ -1,0 +1,31 @@
+{
+	"powers": [
+		"temmies-origins:soul-seer/attackhunger",
+		"temmies-origins:soul-seer/attacksoul",
+		"temmies-origins:soul-seer/belowboost",
+		"temmies-origins:soul-seer/belowzero",
+		"temmies-origins:soul-seer/featherfall",
+		"temmies-origins:soul-seer/fullboost",
+		"temmies-origins:soul-seer/halfboost",
+		"temmies-origins:soul-seer/hpchange",
+		"temmies-origins:soul-seer/nightvision",
+		"temmies-origins:soul-seer/noeat_charge",
+		"temmies-origins:soul-seer/noeat_depleat",
+		"temmies-origins:soul-seer/noeat_finaly", 
+		"temmies-origins:soul-seer/noeat_source",
+		"temmies-origins:soul-seer/particle",
+		"temmies-origins:soul-seer/soul_depleat",
+		"temmies-origins:soul-seer/soul_depleat",
+		"temmies-origins:soul-seer/soul_depleat_time",
+		"temmies-origins:soul-seer/soul_shader",
+		"temmies-origins:soul-seer/soullight",
+		"temmies-origins:soul-seer/souls",
+		"temmies-origins:soul-seer/soulsource",
+		"temmies-origins:soul-seer/teleport_set",
+		"temmies-origins:soul-seer/transparent"
+	],
+	"icon": "minecraft:soul_sand",
+	"impact": 3,
+	"name": "Soul-Seer",
+	"description": "You are a mostly soul-like being, though you have many skills and flaws relying on a soul-well to stay in top shape."
+}

@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"temmies-origins:rat/hearts",
+		"temmies-origins:rat/nimble_limbs",
+		"temmies-origins:rat/nimble_limbs_2",
+		"temmies-origins:rat/nocturnal_eyes",
+		"temmies-origins:rat/one_block_height",
+		"temmies-origins:rat/rats_eyes",
+		"temmies-origins:rat/scavenger",
+		"temmies-origins:rat/slow_swimmer",
+		"temmies-origins:rat/tail_whip",
+		"temmies-origins:rat/tail_whip_cooldown",
+		"temmies-origins:rat/tail_whip_duration",
+		"temmies-origins:rat/tail_whip_knockback",
+		"temmies-origins:rat/toxicity_evolved",
+		"temmies-origins:rat/vicious_bite"
+	],
+	"icon": "minecraft:rotten_flesh",
+	"impact": 2,
+	"name": "Rat",
+	"description": "You are a small critter of the night. You hunt and are filthy to others."
+}

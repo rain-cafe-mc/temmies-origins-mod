@@ -1,0 +1,25 @@
+{
+	"powers":[
+	   "origins:aqua_affinity",
+	   "origins:like_water",
+	   "origins:no_shield",
+	   "temmies-origins:dolphin/bubbles",
+	   "temmies-origins:dolphin/fish_diet",
+	   "temmies-origins:dolphin/fragile",
+	   "temmies-origins:dolphin/no_fall",
+	   "temmies-origins:dolphin/ocean_spawn",
+	   "temmies-origins:dolphin/raw_cod",
+	   "temmies-origins:dolphin/raw_salmon",
+	   "temmies-origins:dolphin/raw_tropicalfish",
+	   "temmies-origins:dolphin/riptide",
+	   "temmies-origins:dolphin/slow_land",
+	   "temmies-origins:dolphin/speed_water",
+	   "temmies-origins:dolphin/summon_dolphin",
+	   "temmies-origins:dolphin/water_breathing",
+	   "temmies-origins:dolphin/water_vision"
+	],
+	"icon":"minecraft:prismarine_shard",
+	"impact":2,
+	"name":"Dolphin",
+	"description":"Dolphins are aquatic creatures that likes to jump out of the water, and are most likely found in the ocean."
+}

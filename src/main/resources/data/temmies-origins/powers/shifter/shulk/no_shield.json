@@ -1,0 +1,17 @@
+{
+    "name": "Unwieldy",
+    "description": "You can’t use shields, bows or crossbows.",
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "temmies-origins:shifter/shulkno"
+      }
+    },
+    "condition":{
+		"type": "origins:resource",
+		"resource": "temmies-origins:shifter/shift_bar",
+		"comparison": "==",
+		"compare_to": 4
+	}
+  }

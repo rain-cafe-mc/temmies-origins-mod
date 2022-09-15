@@ -1,0 +1,24 @@
+{
+	"type": "origins:modify_jump",
+	"modifier": {
+		"operation": "multiply_total",
+		"value": -2
+	},
+	"condition": {
+		"type": "origins:or",
+		"conditions": [{
+				"type": "origins:resource",
+				"resource": "temmies-origins:automaton/firebar",
+				"comparison": "==",
+				"compare_to": 0
+			},
+			{
+				"type": "origins:resource",
+				"resource": "temmies-origins:automaton/waterbar",
+				"comparison": "==",
+				"compare_to": 0
+			}
+		]
+	},
+	"hidden": true
+}

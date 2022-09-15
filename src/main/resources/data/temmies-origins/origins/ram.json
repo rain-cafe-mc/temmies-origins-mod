@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"temmies-origins:ram/dash",
+		"temmies-origins:ram/energy_jump",
+		"temmies-origins:ram/fall",
+		"temmies-origins:ram/fresh_air",
+		"temmies-origins:ram/jump_boost",
+		"temmies-origins:ram/no_food",
+		"temmies-origins:ram/no_food_eat",
+		"temmies-origins:ram/ram"
+	],
+	"icon": "minecraft:white_wool",
+	"impact": 3,
+	"name": "Ram",
+	"description": "You can ram stuff."
+}

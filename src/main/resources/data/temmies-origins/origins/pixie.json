@@ -1,0 +1,21 @@
+{
+	"powers":[
+		"origins:elytra",
+		"origins:fall_immunity",
+		"origins:climbing",
+		"origins:vegetarian",
+		"temmies-origins:pixie/bite_sized",
+		"temmies-origins:pixie/effect_glow",
+		"temmies-origins:pixie/effect_luck",
+		"temmies-origins:pixie/flying",
+		"temmies-origins:pixie/particle",
+		"temmies-origins:pixie/pixie_dust",
+		"temmies-origins:pixie/reach",
+		"temmies-origins:pixie/sound",
+		"temmies-origins:pixie/speed"
+	],
+	"icon": "minecraft:glowstone_dust",
+	"impact": 3,
+	"name": "Pixie",
+	"description": "You are a mischievious elf-like spirit."
+}

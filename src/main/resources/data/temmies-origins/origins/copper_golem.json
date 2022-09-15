@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "temmies-origins:copper-golem/copper_colour",
+        "temmies-origins:copper-golem/defense",
+        "temmies-origins:copper-golem/extra_health",
+        "temmies-origins:copper-golem/immune_to_fall_damage",
+        "temmies-origins:copper-golem/no_food",
+        "temmies-origins:copper-golem/oxidation_action",
+        "temmies-origins:copper-golem/oxidation_resource",
+        "temmies-origins:copper-golem/smol",
+        "temmies-origins:copper-golem/stronk"
+    ],
+    "name": "Copper Golem",
+    "description": "Comprised entirely of copper, 'tis a sturdy machine.",
+    "icon": "minecraft:copper_ingot",
+    "impact": 3
+}

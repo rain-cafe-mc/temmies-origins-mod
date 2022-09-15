@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"temmies-origins:wyvern/carnivore",
+		"temmies-origins:wyvern/claws",
+		"temmies-origins:wyvern/nightv",
+		"temmies-origins:wyvern/poisonimmune",
+		"temmies-origins:wyvern/projectile",
+		"temmies-origins:wyvern/shield",
+		"temmies-origins:wyvern/size",
+		"temmies-origins:wyvern/water",
+		"temmies-origins:wyvern/wind",
+		"temmies-origins:wyvern/wing"
+	],
+	"icon": "minecraft:ender_eye",
+	"impact": 3,
+	"name": "Wyverian",
+	"description": "A descendant from the powerful dragon called the Wyvern."
+}
+

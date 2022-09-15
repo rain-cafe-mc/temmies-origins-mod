@@ -1,0 +1,20 @@
+{
+    "powers": [
+        "temmies-origins:dullahan/abilities/hell_chain",
+        "temmies-origins:dullahan/abilities/nightmare_steed",
+        "temmies-origins:dullahan/abilities/skull_bomb",
+        "temmies-origins:dullahan/buffs/fear",
+        "temmies-origins:dullahan/buffs/kit",
+        "temmies-origins:dullahan/buffs/nightbuffs",
+        "temmies-origins:dullahan/buffs/no_food",
+        "temmies-origins:dullahan/buffs/no_food",
+        "temmies-origins:dullahan/buffs/soul",
+        "temmies-origins:dullahan/debuffs/boned",
+        "temmies-origins:dullahan/debuffs/daydebuffs",
+        "temmies-origins:dullahan/debuffs/soul_seal"
+    ],
+    "icon": "minecraft:skeleton_skull",
+    "impact": 3,
+    "name": "Dullahan",
+    "description": "You are an anceint horsemen, harbringer of death and slavery using your binding chains and horse to kill your victims."
+}

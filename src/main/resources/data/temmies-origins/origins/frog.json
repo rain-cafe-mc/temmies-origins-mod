@@ -1,0 +1,23 @@
+{
+	"powers": [
+		"origins:aqua_affinity",
+		"temmies-origins:frog/frog_dash",
+		"temmies-origins:frog/frog_fall",
+		"temmies-origins:frog/frog_fire",
+		"temmies-origins:frog/frog_fire_bar1",
+		"temmies-origins:frog/frog_fire_bar2",
+		"temmies-origins:frog/frog_fire_bar3",
+		"temmies-origins:frog/frog_jump",
+		"temmies-origins:frog/frog_life",
+		"temmies-origins:frog/frog_stats",
+		"temmies-origins:frog/frog_swim",	
+		"temmies-origins:frog/frog_swim2",
+		"temmies-origins:frog/frog_swim3",
+		"temmies-origins:frog/poison"
+		
+	],
+	"icon": "minecraft:lily_pad",
+	"impact": 3,
+	"name": "Frog",
+	"description": "Your frog character has certain traits deriving from your frog ancestry."
+}

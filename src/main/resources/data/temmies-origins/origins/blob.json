@@ -1,0 +1,31 @@
+{
+	"powers": [
+		"temmies-origins:blob/bar",
+		"temmies-origins:blob/cold",
+		"temmies-origins:blob/dmg",
+		"temmies-origins:blob/electricity_immune",
+		"temmies-origins:blob/fixballs",
+		"temmies-origins:blob/health",
+		"temmies-origins:blob/heat",
+		"temmies-origins:blob/magic",
+		"temmies-origins:blob/magic1",
+		"temmies-origins:blob/nether",
+		"temmies-origins:blob/nodrown",
+		"temmies-origins:blob/noshield",
+		"temmies-origins:blob/purify",
+		"temmies-origins:blob/side_step",
+		"temmies-origins:blob/skintone",
+		"temmies-origins:blob/smol",
+		"temmies-origins:blob/smol_hp",
+		"temmies-origins:blob/speed",
+		"temmies-origins:blob/stone_eatermain",
+		"temmies-origins:blob/strength",
+		"temmies-origins:blob/water_effects",
+		"temmies-origins:blob/wisdom",
+		"temmies-origins:blob/you"
+	],
+	"icon": "minecraft:popped_chorus_fruit",
+	"impact": 2,
+	"name": "Blob",
+	"description": "You are some kind of blob, you don't know anything about yourself but you seem to know already about the world around you."
+}

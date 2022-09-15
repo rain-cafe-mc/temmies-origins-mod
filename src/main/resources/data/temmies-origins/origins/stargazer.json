@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"temmies-origins:stargazer/equinox",
+		"temmies-origins:stargazer/fragile_flame",
+		"temmies-origins:stargazer/hellish_will",
+		"temmies-origins:stargazer/monster_mender",
+		"temmies-origins:stargazer/photosynthesis",
+		"temmies-origins:stargazer/starguard",
+		"temmies-origins:stargazer/starlight_mode",
+		"temmies-origins:stargazer/starlight_mode_invisible",
+		"temmies-origins:stargazer/starlight_mode_night_vision",
+		"temmies-origins:stargazer/starlight_mode_no_attack",
+		"temmies-origins:stargazer/starlight_mode_sunburn_immune",
+		"temmies-origins:stargazer/sunburn"
+	],
+	"icon": "minecraft:nether_star",
+	"impact": 3,
+	"name": "Stargazer",
+	"description": "Star boi!"
+}
