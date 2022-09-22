@@ -8,8 +8,8 @@ version="${version}"
 displayName="Temmie's Origins"
 description='Origins made especially for the Temmie's Origins Modpack! c:'
 
-displayURL="https://github.com/temmies-origins/temmies-origins-modpack"
-issueTrackerURL="https://github.com/temmies-origins/temmies-origins-modpack/issues"
+displayURL="https://github.com/rain-cafe-mc/temmies-origins-modpack"
+issueTrackerURL="https://github.com/rain-cafe-mc/temmies-origins-modpack/issues"
 authors="Ceci"
 logoFile="icon.png"
 

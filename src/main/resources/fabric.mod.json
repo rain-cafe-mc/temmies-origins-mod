@@ -7,8 +7,8 @@
 	"authors": ["Ceci"],   
 	"contributors": [], 
 	"contact": {
-		"homepage": "https://github.com/temmies-origins/temmies-origins-mod",
-		"issues": "https://github.com/temmies-origins/temmies-origins-mod/issues"
+		"homepage": "https://github.com/rain-cafe-mc/temmies-origins-mod",
+		"issues": "https://github.com/rain-cafe-mc/temmies-origins-mod/issues"
 	},
 	"icon": "icon.png",
 	"depends": {
